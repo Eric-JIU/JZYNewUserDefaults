@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "JZYUserDefaults"
-  spec.version      = "0.0.1"
+  spec.version      = "v0.0.1"
   spec.summary      = "test first"
 
   # This description is used to generate tags and improve search results.
