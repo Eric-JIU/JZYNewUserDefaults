@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name         = "JZYUserDefaults"
-  s.version      = "v0.0.1"
+  s.version      = "0.0.1"
   s.ios.deployment_target = '8.0'
-  s.summary      = "简介"
+  s.summary      = "test first"
   s.homepage     = "https://github.com/Eric-JIU/JZYNewUserDefaults"
   #s.social_media_url = 'https://www.baidu.com'
   s.license    = "MIT"
